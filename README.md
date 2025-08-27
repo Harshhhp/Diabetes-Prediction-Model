@@ -68,5 +68,4 @@ Build a Streamlit / Flask web app for interactive predictions
 
 🌐 Connect with Me
 https://www.linkedin.com/in/harsh-pandey-891261354/
-git clone https://github.com/your-username/diabetes-prediction.git
-cd diabetes-prediction
+
